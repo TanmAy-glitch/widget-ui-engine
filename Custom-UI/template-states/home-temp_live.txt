@@ -1,0 +1,5 @@
+(ASCII Art Banner Here)
+
+Last Input - {click1}
+
+Click Combo {click1},{click2},{click3}
